@@ -1,8 +1,5 @@
 {
-  "6283179207595": {
-    "name": "NPC OWNER",
-    "premium": true,
-    "limit": 50,
-    "registered": true
-  }
+  "data": [
+    "6283179207595"
+  ]
 }
