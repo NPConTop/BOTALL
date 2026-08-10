@@ -382,5 +382,17 @@
     "joinedAt": 1786385412640,
     "tier": "Starter",
     "miningActive": false
+  },
+  "8650959703": {
+    "user_id": 8650959703,
+    "username": "baskemtut",
+    "fullName": "a",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786387340238,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
