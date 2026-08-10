@@ -9,11 +9,7 @@
     "lastMineAmt": 0,
     "joinedAt": 1786364019966,
     "tier": "Starter",
-    "miningActive": false,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0
+    "miningActive": false
   },
   "6080367121": {
     "user_id": 6080367121,
@@ -26,10 +22,6 @@
     "joinedAt": 1786353471784,
     "tier": "Legend",
     "miningActive": true,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0,
     "lastMult": 1,
     "lastEventMult": 1
   },
@@ -44,10 +36,6 @@
     "joinedAt": 1786353937758,
     "tier": "Starter",
     "miningActive": true,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0,
     "lastMult": 1,
     "lastEventMult": 1
   },
@@ -62,10 +50,6 @@
     "joinedAt": 1786354002860,
     "tier": "Starter",
     "miningActive": true,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0,
     "lastMult": 1,
     "lastEventMult": 1
   },
@@ -79,11 +63,7 @@
     "lastMineAmt": 0,
     "joinedAt": 1786355519559,
     "tier": "Starter",
-    "miningActive": false,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0
+    "miningActive": false
   },
   "6971906523": {
     "user_id": 6971906523,
@@ -96,10 +76,6 @@
     "joinedAt": 1786358675898,
     "tier": "Starter",
     "miningActive": true,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0,
     "lastMult": 1,
     "lastEventMult": 1
   },
@@ -114,10 +90,6 @@
     "joinedAt": 1786359423589,
     "tier": "Starter",
     "miningActive": true,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0,
     "lastMult": 1,
     "lastEventMult": 1
   },
@@ -131,11 +103,7 @@
     "lastMineAmt": 0,
     "joinedAt": 1786359920732,
     "tier": "Starter",
-    "miningActive": false,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0
+    "miningActive": false
   },
   "6988586493": {
     "user_id": 6988586493,
@@ -147,11 +115,7 @@
     "lastMineAmt": 0,
     "joinedAt": 1786360837119,
     "tier": "Starter",
-    "miningActive": false,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0
+    "miningActive": false
   },
   "7739237719": {
     "user_id": 7739237719,
@@ -163,11 +127,7 @@
     "lastMineAmt": 0,
     "joinedAt": 1786363104512,
     "tier": "Starter",
-    "miningActive": false,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0
+    "miningActive": false
   },
   "7256468442": {
     "user_id": 7256468442,
@@ -179,10 +139,6 @@
     "lastMineAmt": 0,
     "joinedAt": 1786363284715,
     "tier": "Starter",
-    "miningActive": false,
-    "referredBy": null,
-    "referralPending": false,
-    "referralCount": 0,
-    "referralEarned": 0
+    "miningActive": false
   }
 }
