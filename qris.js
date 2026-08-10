@@ -28,5 +28,17 @@
     "created_at": 1786361228445,
     "processed": true,
     "paid_at": 1786361319127
+  },
+  {
+    "invoice_id": "6a79b906036c5d336043ae6d",
+    "user_id": 6971906523,
+    "username": "Madellxyz",
+    "amount": 50000,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Miner",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786362120278,
+    "processed": false
   }
 ]
