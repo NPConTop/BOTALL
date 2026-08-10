@@ -1,4 +1,20 @@
 {
+  "1342932763": {
+    "user_id": 1342932763,
+    "username": "𝐍𝐏𝐂 𝐆𝐎𝐃𝐇𝐀𝐍𝐃 𝘿' 𝙇𝙪𝙘𝙖̀ 𓇢𓆸",
+    "fullName": "𝐍𝐏𝐂 𝐆𝐎𝐃𝐇𝐀𝐍𝐃 𝘿' 𝙇𝙪𝙘𝙖̀ 𓇢𓆸",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786353762954,
+    "tier": "Starter",
+    "miningActive": false,
+    "referredBy": null,
+    "referralPending": false,
+    "referralCount": 0,
+    "referralEarned": 0
+  },
   "6080367121": {
     "user_id": 6080367121,
     "username": "Agent Class",
