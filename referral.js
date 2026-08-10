@@ -62,10 +62,13 @@
   },
   "6988586493": {
     "user_id": 6988586493,
-    "referredBy": null,
-    "referralPending": false,
+    "referredBy": 6080367121,
+    "referralPending": true,
     "referralCount": 0,
-    "referralEarned": 0
+    "referralEarned": 0,
+    "joinRewardAwarded": false,
+    "topupRewardAwarded": false,
+    "topupRewardEarned": 0
   },
   "7739237719": {
     "user_id": 7739237719,
