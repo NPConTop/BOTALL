@@ -51,16 +51,18 @@
     "user_id": 8884026662,
     "username": "wanntzyy12",
     "fullName": "wann wan",
-    "saldo": 4000,
-    "totalMined": 0,
-    "lastMine": null,
-    "lastMineAmt": 0,
+    "saldo": 4057,
+    "totalMined": 57,
+    "lastMine": 1786354131623,
+    "lastMineAmt": 57,
     "joinedAt": 1786354002860,
     "tier": "Starter",
     "miningActive": true,
     "referredBy": null,
     "referralPending": false,
     "referralCount": 0,
-    "referralEarned": 0
+    "referralEarned": 0,
+    "lastMult": 1,
+    "lastEventMult": 1
   }
 }
