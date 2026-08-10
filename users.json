@@ -152,5 +152,17 @@
     "joinedAt": 1786367060590,
     "tier": "Starter",
     "miningActive": false
+  },
+  "7519029734": {
+    "user_id": 7519029734,
+    "username": "Ryujinz230",
+    "fullName": "𝚁𝚢𝚞𝚓𝚒𝚗𝚣",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786367891534,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
