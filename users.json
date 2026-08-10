@@ -224,5 +224,17 @@
     "joinedAt": 1786374302303,
     "tier": "Starter",
     "miningActive": false
+  },
+  "5816589745": {
+    "user_id": 5816589745,
+    "username": "Aepsuraep2",
+    "fullName": "Anak hilang",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786374541204,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
