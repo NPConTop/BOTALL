@@ -140,5 +140,17 @@
     "joinedAt": 1786363284715,
     "tier": "Starter",
     "miningActive": false
+  },
+  "8163890473": {
+    "user_id": 8163890473,
+    "username": "Zaenal",
+    "fullName": "Zaenal Arifin",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786365794074,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
