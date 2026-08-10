@@ -168,5 +168,21 @@
     "referralPending": false,
     "referralCount": 0,
     "referralEarned": 0
+  },
+  "7256468442": {
+    "user_id": 7256468442,
+    "username": "wannxyzx",
+    "fullName": "rdwnnzx",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786363284715,
+    "tier": "Starter",
+    "miningActive": false,
+    "referredBy": null,
+    "referralPending": false,
+    "referralCount": 0,
+    "referralEarned": 0
   }
 }
