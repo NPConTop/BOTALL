@@ -272,5 +272,17 @@
     "joinedAt": 1786375338791,
     "tier": "Starter",
     "miningActive": false
+  },
+  "8305041861": {
+    "user_id": 8305041861,
+    "username": "R I F K I M A R K E T",
+    "fullName": "R I F K I M A R K E T",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786375358850,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
