@@ -134,5 +134,21 @@
     "referralPending": false,
     "referralCount": 0,
     "referralEarned": 0
+  },
+  "6988586493": {
+    "user_id": 6988586493,
+    "username": "Klokok",
+    "fullName": "Klokok kokok",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786360837119,
+    "tier": "Starter",
+    "miningActive": false,
+    "referredBy": null,
+    "referralPending": false,
+    "referralCount": 0,
+    "referralEarned": 0
   }
 }
