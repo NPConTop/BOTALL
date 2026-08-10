@@ -68,5 +68,21 @@
     "referralEarned": 0,
     "lastMult": 1,
     "lastEventMult": 1
+  },
+  "8331239982": {
+    "user_id": 8331239982,
+    "username": "Official_Binance_Legals",
+    "fullName": "SUPPORT BINANCE",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786355519559,
+    "tier": "Starter",
+    "miningActive": false,
+    "referredBy": null,
+    "referralPending": false,
+    "referralCount": 0,
+    "referralEarned": 0
   }
 }
