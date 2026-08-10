@@ -1,4 +1,16 @@
 {
+  "1050306562": {
+    "user_id": 1050306562,
+    "username": "christopher Ateraa",
+    "fullName": "christopher Ateraa",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786374315731,
+    "tier": "Starter",
+    "miningActive": false
+  },
   "6080367121": {
     "user_id": 6080367121,
     "username": "AgentClassX",
