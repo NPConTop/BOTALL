@@ -152,5 +152,21 @@
     "referralPending": false,
     "referralCount": 0,
     "referralEarned": 0
+  },
+  "7739237719": {
+    "user_id": 7739237719,
+    "username": "CsSaldoSpay",
+    "fullName": "Cs SaldoSpay",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786363104512,
+    "tier": "Starter",
+    "miningActive": false,
+    "referredBy": null,
+    "referralPending": false,
+    "referralCount": 0,
+    "referralEarned": 0
   }
 }
