@@ -200,5 +200,17 @@
     "joinedAt": 1786374214001,
     "tier": "Starter",
     "miningActive": false
+  },
+  "6378528706": {
+    "user_id": 6378528706,
+    "username": "snjyaa4",
+    "fullName": "s",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786374302303,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
