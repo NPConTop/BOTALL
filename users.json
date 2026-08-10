@@ -346,5 +346,17 @@
     "joinedAt": 1786378693887,
     "tier": "Starter",
     "miningActive": false
+  },
+  "8555829763": {
+    "user_id": 8555829763,
+    "username": "RIZAN124",
+    "fullName": "rizan",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786379343239,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
