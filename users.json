@@ -310,5 +310,17 @@
     "joinedAt": 1786375624514,
     "tier": "Starter",
     "miningActive": false
+  },
+  "6918327668": {
+    "user_id": 6918327668,
+    "username": "ujanggslebew",
+    "fullName": "Ujang Selebew",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786376737161,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
