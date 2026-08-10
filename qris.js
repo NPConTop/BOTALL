@@ -24,8 +24,9 @@
     "user_id": 6638368874,
     "username": "Skytwo",
     "amount": 2000,
-    "status": "pending",
+    "status": "paid",
     "created_at": 1786361228445,
-    "processed": false
+    "processed": true,
+    "paid_at": 1786361319127
   }
 ]
