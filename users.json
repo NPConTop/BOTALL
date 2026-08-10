@@ -176,5 +176,17 @@
     "joinedAt": 1786372812018,
     "tier": "Starter",
     "miningActive": false
+  },
+  "8846830758": {
+    "user_id": 8846830758,
+    "username": "Quenn013",
+    "fullName": "Lisa",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786374212035,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
