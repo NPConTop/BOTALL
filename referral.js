@@ -174,5 +174,15 @@
     "referralEarned": 0,
     "topupRewardAwarded": false,
     "topupRewardEarned": 0
+  },
+  "7517927881": {
+    "user_id": 7517927881,
+    "referredBy": 6080367121,
+    "referralPending": true,
+    "joinRewardAwarded": false,
+    "referralCount": 0,
+    "referralEarned": 0,
+    "topupRewardAwarded": false,
+    "topupRewardEarned": 0
   }
 }
