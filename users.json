@@ -188,5 +188,17 @@
     "joinedAt": 1786374212035,
     "tier": "Starter",
     "miningActive": false
+  },
+  "8690896586": {
+    "user_id": 8690896586,
+    "username": "VrDoxzTzy",
+    "fullName": "VerdoxzTzy",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786374214001,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
