@@ -58,8 +58,9 @@
     "user_id": 8305041861,
     "username": "R I F K I M A R K E T",
     "amount": 1000,
-    "status": "pending",
+    "status": "paid",
     "created_at": 1786375604044,
-    "processed": false
+    "processed": true,
+    "paid_at": 1786375660068
   }
 ]
