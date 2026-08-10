@@ -30,5 +30,21 @@
     "referralPending": false,
     "referralCount": 0,
     "referralEarned": 0
+  },
+  "8488523937": {
+    "user_id": 8488523937,
+    "username": "mpryuu",
+    "fullName": "unknown",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786353937758,
+    "tier": "Starter",
+    "miningActive": false,
+    "referredBy": null,
+    "referralPending": false,
+    "referralCount": 0,
+    "referralEarned": 0
   }
 }
