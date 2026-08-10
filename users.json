@@ -236,5 +236,17 @@
     "joinedAt": 1786374541204,
     "tier": "Starter",
     "miningActive": false
+  },
+  "8424528886": {
+    "user_id": 8424528886,
+    "username": "superNARA44",
+    "fullName": "〆ˊ𝐒𝐔𝐏𝐄𝐑🇳 🇦 🇷 🇦 (cankz44)",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786374741567,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
