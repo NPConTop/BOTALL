@@ -118,5 +118,21 @@
     "referralPending": false,
     "referralCount": 0,
     "referralEarned": 0
+  },
+  "8690131842": {
+    "user_id": 8690131842,
+    "username": "KantongDigitalCs",
+    "fullName": "Kantong Digital CS",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786359920732,
+    "tier": "Starter",
+    "miningActive": false,
+    "referredBy": null,
+    "referralPending": false,
+    "referralCount": 0,
+    "referralEarned": 0
   }
 }
