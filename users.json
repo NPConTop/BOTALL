@@ -1,1 +1,18 @@
-{}
+{
+  "6080367121": {
+    "user_id": 6080367121,
+    "username": "Agent Class",
+    "fullName": "Agent Class",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786353471784,
+    "tier": "Starter",
+    "miningActive": false,
+    "referredBy": null,
+    "referralPending": false,
+    "referralCount": 0,
+    "referralEarned": 0
+  }
+}
