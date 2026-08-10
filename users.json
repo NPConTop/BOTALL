@@ -260,5 +260,17 @@
     "joinedAt": 1786374856029,
     "tier": "Starter",
     "miningActive": false
+  },
+  "7857822114": {
+    "user_id": 7857822114,
+    "username": "Csvalley",
+    "fullName": "CS VALLEY PEDIA",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786375338791,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
