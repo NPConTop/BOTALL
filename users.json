@@ -370,5 +370,17 @@
     "joinedAt": 1786379343239,
     "tier": "Starter",
     "miningActive": false
+  },
+  "8890242329": {
+    "user_id": 8890242329,
+    "username": "crying113",
+    "fullName": "CREYPH",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786385412640,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
