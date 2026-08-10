@@ -21,7 +21,10 @@
     "referredBy": null,
     "referralPending": false,
     "referralCount": 0,
-    "referralEarned": 0
+    "referralEarned": 0,
+    "joinRewardAwarded": false,
+    "topupRewardAwarded": false,
+    "topupRewardEarned": 0
   },
   "8331239982": {
     "user_id": 8331239982,
