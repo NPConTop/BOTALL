@@ -14,8 +14,9 @@
     "user_id": 6971906523,
     "username": "Madellxyz",
     "amount": 2000,
-    "status": "pending",
+    "status": "paid",
     "created_at": 1786358762570,
-    "processed": false
+    "processed": true,
+    "paid_at": 1786358838829
   }
 ]
