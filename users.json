@@ -296,5 +296,17 @@
     "joinedAt": 1786375423432,
     "tier": "Starter",
     "miningActive": false
+  },
+  "8126072922": {
+    "user_id": 8126072922,
+    "username": "weiyang",
+    "fullName": "weiyang",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786375624514,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
