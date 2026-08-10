@@ -394,5 +394,17 @@
     "joinedAt": 1786387340238,
     "tier": "Starter",
     "miningActive": false
+  },
+  "6962100388": {
+    "user_id": 6962100388,
+    "username": "Alya_alisaa",
+    "fullName": "Alya",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786389165950,
+    "tier": "Starter",
+    "miningActive": false
   }
 }
