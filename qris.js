@@ -206,8 +206,9 @@
     "invoice_type": "tier_upgrade",
     "tier_target": "Initiate",
     "tier_from": "Seed",
-    "status": "pending",
+    "status": "cancelled",
     "created_at": 1786449657200,
-    "processed": false
+    "processed": true,
+    "cancelled_at": 1786449661969
   }
 ]
