@@ -72,5 +72,17 @@
     "created_at": 1786423518469,
     "processed": true,
     "paid_at": 1786423579074
+  },
+  {
+    "invoice_id": "6a7aa9729ecea5b832d61a5f",
+    "user_id": 8138161995,
+    "username": "ellstore09",
+    "amount": 5000,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": null,
+    "status": "pending",
+    "created_at": 1786423668214,
+    "processed": false
   }
 ]
