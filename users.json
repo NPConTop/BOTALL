@@ -716,5 +716,20 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0
+  },
+  "7778456752": {
+    "user_id": 7778456752,
+    "username": "wahdaa25",
+    "fullName": "M.Wahyuda M.Wahyuda",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786440044756,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   }
 }
