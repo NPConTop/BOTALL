@@ -103,5 +103,17 @@
     "status": "pending",
     "created_at": 1786426736794,
     "processed": false
+  },
+  {
+    "invoice_id": "6a7ad5c6ea0276dec39dbbcd",
+    "user_id": 8381227575,
+    "username": "PalWhehe",
+    "amount": 5000,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786435016792,
+    "processed": false
   }
 ]
