@@ -19,5 +19,12 @@
     "username": "makky",
     "amount": 2000,
     "paid_at": 1786425847076
+  },
+  {
+    "invoice_id": "6a7afd95c5f4b2cd71723b2f",
+    "user_id": 6971906523,
+    "username": "Madellxyz",
+    "amount": 3000,
+    "paid_at": 1786445349502
   }
 ]
