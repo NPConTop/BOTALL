@@ -183,8 +183,9 @@
     "invoice_type": "tier_upgrade",
     "tier_target": "Seed",
     "tier_from": "Starter",
-    "status": "pending",
+    "status": "paid",
     "created_at": 1786449439380,
-    "processed": false
+    "processed": true,
+    "paid_at": 1786449487196
   }
 ]
