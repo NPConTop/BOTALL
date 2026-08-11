@@ -54,7 +54,10 @@
     "referredBy": null,
     "referralPending": false,
     "referralCount": 0,
-    "referralEarned": 0
+    "referralEarned": 0,
+    "joinRewardAwarded": false,
+    "topupRewardAwarded": false,
+    "topupRewardEarned": 0
   },
   "6638368874": {
     "user_id": 6638368874,
