@@ -348,7 +348,10 @@
     "lastMineAmt": 0,
     "joinedAt": 1786376737161,
     "tier": "Starter",
-    "miningActive": false
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   },
   "7517927881": {
     "user_id": 7517927881,
@@ -581,6 +584,21 @@
     "lastMine": null,
     "lastMineAmt": 0,
     "joinedAt": 1786422480854,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "7312333074": {
+    "user_id": 7312333074,
+    "username": "ampau1",
+    "fullName": "kinz SOLIKIN",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422487393,
     "tier": null,
     "miningActive": false,
     "lastDaily": 0,
