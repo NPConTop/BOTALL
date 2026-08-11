@@ -782,5 +782,20 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0
+  },
+  "7035154306": {
+    "user_id": 7035154306,
+    "username": "Kyyyy021",
+    "fullName": "Rezky🐾",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786448062359,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   }
 }
