@@ -210,5 +210,17 @@
     "created_at": 1786449657200,
     "processed": true,
     "cancelled_at": 1786449661969
+  },
+  {
+    "invoice_id": "6a7b1d72c5f4b2cd717555e8",
+    "user_id": 8372541943,
+    "username": "Anonymous",
+    "amount": 50000,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Miner",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786453365228,
+    "processed": false
   }
 ]
