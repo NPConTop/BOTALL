@@ -509,5 +509,15 @@
     "referralEarned": 0,
     "topupRewardAwarded": false,
     "topupRewardEarned": 0
+  },
+  "8611104851": {
+    "user_id": 8611104851,
+    "referredBy": 8305041861,
+    "referralPending": true,
+    "joinRewardAwarded": false,
+    "referralCount": 0,
+    "referralEarned": 0,
+    "topupRewardAwarded": false,
+    "topupRewardEarned": 0
   }
 }
