@@ -161,5 +161,17 @@
     "created_at": 1786448237514,
     "processed": true,
     "cancelled_at": 1786448242836
+  },
+  {
+    "invoice_id": "6a7b0bc2c5f4b2cd71739e60",
+    "user_id": 7035154306,
+    "username": "Kyyyy021",
+    "amount": 5000,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786448836060,
+    "processed": false
   }
 ]
