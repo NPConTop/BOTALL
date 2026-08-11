@@ -479,5 +479,15 @@
     "referralEarned": 0,
     "topupRewardAwarded": false,
     "topupRewardEarned": 0
+  },
+  "8771899958": {
+    "user_id": 8771899958,
+    "referredBy": 8331239982,
+    "referralPending": true,
+    "joinRewardAwarded": false,
+    "referralCount": 0,
+    "referralEarned": 0,
+    "topupRewardAwarded": false,
+    "topupRewardEarned": 0
   }
 }
