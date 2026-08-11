@@ -767,5 +767,20 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0
+  },
+  "7596741725": {
+    "user_id": 7596741725,
+    "username": "wlns13",
+    "fullName": "𝐎𝐍𝐘𝐗 𝐎𝐅𝐅𝐂",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786446621789,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   }
 }
