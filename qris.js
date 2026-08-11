@@ -90,8 +90,9 @@
     "user_id": 8657393117,
     "username": "makky",
     "amount": 2000,
-    "status": "pending",
+    "status": "paid",
     "created_at": 1786425785004,
-    "processed": false
+    "processed": true,
+    "paid_at": 1786425847076
   }
 ]
