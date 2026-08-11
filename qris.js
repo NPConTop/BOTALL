@@ -223,5 +223,17 @@
     "created_at": 1786453365228,
     "processed": true,
     "cancelled_at": 1786453373077
+  },
+  {
+    "invoice_id": "6a7b2c1ec5f4b2cd7176d14d",
+    "user_id": 8138161995,
+    "username": "ellstore09",
+    "amount": 50000,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Miner",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786457120143,
+    "processed": false
   }
 ]
