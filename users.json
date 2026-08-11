@@ -641,5 +641,20 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0
+  },
+  "8349333773": {
+    "user_id": 8349333773,
+    "username": "Ditzz",
+    "fullName": "Ditzz Cung",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786432611311,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   }
 }
