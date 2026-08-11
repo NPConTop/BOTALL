@@ -12,5 +12,12 @@
     "username": "ellstore09",
     "amount": 1000,
     "paid_at": 1786423579074
+  },
+  {
+    "invoice_id": "6a7ab1b6ea0276dec39ae467",
+    "user_id": 8657393117,
+    "username": "makky",
+    "amount": 2000,
+    "paid_at": 1786425847076
   }
 ]
