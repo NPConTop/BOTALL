@@ -68,8 +68,9 @@
     "user_id": 8138161995,
     "username": "ellstore09",
     "amount": 1000,
-    "status": "pending",
+    "status": "paid",
     "created_at": 1786423518469,
-    "processed": false
+    "processed": true,
+    "paid_at": 1786423579074
   }
 ]
