@@ -144,8 +144,9 @@
     "user_id": 7035154306,
     "username": "Kyyyy021",
     "amount": 1000,
-    "status": "pending",
+    "status": "paid",
     "created_at": 1786448118271,
-    "processed": false
+    "processed": true,
+    "paid_at": 1786448177969
   }
 ]
