@@ -23,6 +23,21 @@
     "tier": "Starter",
     "miningActive": false
   },
+  "1459505400": {
+    "user_id": 1459505400,
+    "username": "kaizennganteng",
+    "fullName": "Kàizenn",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786437589910,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
   "6080367121": {
     "user_id": 6080367121,
     "username": "AgentClassX",
