@@ -99,7 +99,10 @@
     "lastMineAmt": 0,
     "joinedAt": 1786355519559,
     "tier": "Starter",
-    "miningActive": false
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   },
   "6971906523": {
     "user_id": 6971906523,
