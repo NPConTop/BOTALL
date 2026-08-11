@@ -35,7 +35,10 @@
     "tier": "Elite",
     "miningActive": true,
     "lastMult": 1,
-    "lastEventMult": 1
+    "lastEventMult": 1,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   },
   "8488523937": {
     "user_id": 8488523937,
@@ -49,7 +52,10 @@
     "tier": "Starter",
     "miningActive": true,
     "lastMult": 1,
-    "lastEventMult": 1
+    "lastEventMult": 1,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   },
   "8884026662": {
     "user_id": 8884026662,
@@ -89,7 +95,10 @@
     "tier": "Starter",
     "miningActive": true,
     "lastMult": 1,
-    "lastEventMult": 1
+    "lastEventMult": 1,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   },
   "6638368874": {
     "user_id": 6638368874,
@@ -187,7 +196,10 @@
     "lastMineAmt": 0,
     "joinedAt": 1786367891534,
     "tier": "Starter",
-    "miningActive": false
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   },
   "8372541943": {
     "user_id": 8372541943,
@@ -297,7 +309,10 @@
     "tier": "Starter",
     "miningActive": true,
     "lastMult": 1,
-    "lastEventMult": 1
+    "lastEventMult": 1,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   },
   "8087123077": {
     "user_id": 8087123077,
@@ -406,5 +421,170 @@
     "joinedAt": 1786389165950,
     "tier": "Starter",
     "miningActive": false
+  },
+  "8619469370": {
+    "user_id": 8619469370,
+    "username": "iMnjxa",
+    "fullName": "Laut. J. S.",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480815,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "8073144363": {
+    "user_id": 8073144363,
+    "username": "Diciicihuy",
+    "fullName": "Dicii Market",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480817,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "8634019589": {
+    "user_id": 8634019589,
+    "username": "KkaelNilson",
+    "fullName": "𝐊𝐤𝐚𝐞𝐥 𝐯𝐬 𝐄𝐯𝐞𝐫𝐲𝐛𝐨𝐝𝐲",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480827,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "8985921751": {
+    "user_id": 8985921751,
+    "username": "xxpinnceon",
+    "fullName": "pin",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480829,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "6284223406": {
+    "user_id": 6284223406,
+    "username": "TravasWrld",
+    "fullName": "-",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480831,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "8813725664": {
+    "user_id": 8813725664,
+    "username": "Xix",
+    "fullName": "Xix Zar",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480835,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "8138161995": {
+    "user_id": 8138161995,
+    "username": "ellstore09",
+    "fullName": "xly 209",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480837,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "8657393117": {
+    "user_id": 8657393117,
+    "username": "makky",
+    "fullName": "makky",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480845,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "7050179208": {
+    "user_id": 7050179208,
+    "username": "banbinbunmiau",
+    "fullName": "banbinbun",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480849,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "8823885340": {
+    "user_id": 8823885340,
+    "username": "aquaawwo",
+    "fullName": "𝗲𝗹𝗹 𝗯𝗼𝘄",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480852,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "7636643306": {
+    "user_id": 7636643306,
+    "username": "bachiragamood",
+    "fullName": "Bachira lagi ga mood🐼",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786422480854,
+    "tier": null,
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   }
 }
