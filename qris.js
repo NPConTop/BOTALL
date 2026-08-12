@@ -292,8 +292,9 @@
     "username": "siapayahi",
     "amount": 1000,
     "total_paid": 1341,
-    "status": "pending",
+    "status": "paid",
     "created_at": 1786551258038,
-    "processed": false
+    "processed": true,
+    "paid_at": 1786551403020
   }
 ]
