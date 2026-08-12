@@ -922,5 +922,20 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0
+  },
+  "8663226432": {
+    "user_id": 8663226432,
+    "username": "gatau_y12",
+    "fullName": "⏤͟͟͞͞ 𝐧𝐚𝐚_𝐥𝐞𝐱𝐚𝐚 [𝐑𝐗𝐓]",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786533733666,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   }
 }
