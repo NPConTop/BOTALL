@@ -53,8 +53,8 @@
     "user_id": 8331239982,
     "referredBy": null,
     "referralPending": false,
-    "referralCount": 18,
-    "referralEarned": 90000,
+    "referralCount": 19,
+    "referralEarned": 95000,
     "joinRewardAwarded": false,
     "topupRewardAwarded": false,
     "topupRewardEarned": 0
@@ -62,10 +62,10 @@
   "6971906523": {
     "user_id": 6971906523,
     "referredBy": 8331239982,
-    "referralPending": true,
+    "referralPending": false,
     "referralCount": 0,
     "referralEarned": 0,
-    "joinRewardAwarded": false,
+    "joinRewardAwarded": true,
     "topupRewardAwarded": false,
     "topupRewardEarned": 0
   },
