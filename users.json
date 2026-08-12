@@ -892,5 +892,35 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0
+  },
+  "8331604763": {
+    "user_id": 8331604763,
+    "username": "Zranxcrash",
+    "fullName": "Pemula #𝐕𝐞𝐬𝐭𝐫𝐢𝐱#𝐌𝐲𝐯𝐧𝐤𝐥𝐥",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786524621402,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "8866320395": {
+    "user_id": 8866320395,
+    "username": "Yogzzxx",
+    "fullName": "_—–_Yogzz",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786524621417,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   }
 }
