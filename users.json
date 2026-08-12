@@ -937,5 +937,20 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0
+  },
+  "8471892550": {
+    "user_id": 8471892550,
+    "username": "natH4ndsme",
+    "fullName": "𝖓𝖆𝖙𝖍𝖆𝖓𝖎𝖊𝖑",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786535083495,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   }
 }
