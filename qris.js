@@ -271,5 +271,18 @@
     "created_at": 1786547609287,
     "processed": true,
     "cancelled_at": 1786547617543
+  },
+  {
+    "invoice_id": "TXN-1786547625-466",
+    "user_id": 8305041861,
+    "username": "R I F K I M A R K E T",
+    "amount": 5000,
+    "total_paid": 5466,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786547625663,
+    "processed": false
   }
 ]
