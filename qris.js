@@ -103,9 +103,10 @@
     "user_id": 8265051599,
     "username": "jul",
     "amount": 20000,
-    "status": "pending",
+    "status": "expired",
     "created_at": 1786426736794,
-    "processed": false
+    "processed": true,
+    "expired_at": 1786620667761
   },
   {
     "invoice_id": "6a7ad5c6ea0276dec39dbbcd",
