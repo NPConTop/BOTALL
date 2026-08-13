@@ -316,5 +316,18 @@
     "created_at": 1786619113105,
     "processed": true,
     "cancelled_at": 1786619124188
+  },
+  {
+    "invoice_id": "TXN-1786620729-277",
+    "user_id": 6080367121,
+    "username": "AgentClassX",
+    "amount": 5000,
+    "total_paid": 5277,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Elite",
+    "status": "pending",
+    "created_at": 1786620729704,
+    "processed": false
   }
 ]
