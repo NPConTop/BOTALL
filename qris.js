@@ -353,5 +353,18 @@
     "status": "pending",
     "created_at": 1786625627752,
     "processed": false
+  },
+  {
+    "invoice_id": "TXN-1786626014-266",
+    "user_id": 8564226820,
+    "username": "siapayahi",
+    "amount": 50000,
+    "total_paid": 50266,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Miner",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786626015267,
+    "processed": false
   }
 ]
