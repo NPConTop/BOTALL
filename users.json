@@ -402,7 +402,10 @@
     "lastMineAmt": 0,
     "joinedAt": 1786378693887,
     "tier": "Starter",
-    "miningActive": false
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   },
   "8555829763": {
     "user_id": 8555829763,
@@ -518,7 +521,7 @@
   "6284223406": {
     "user_id": 6284223406,
     "username": "TravasWrld",
-    "fullName": "-",
+    "fullName": "trvs.wrld",
     "saldo": 0,
     "totalMined": 0,
     "lastMine": null,
