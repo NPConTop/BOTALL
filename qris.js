@@ -340,5 +340,18 @@
     "status": "pending",
     "created_at": 1786622576308,
     "processed": false
+  },
+  {
+    "invoice_id": "TXN-1786625627-307",
+    "user_id": 8937992854,
+    "username": "angga171",
+    "amount": 5000,
+    "total_paid": 5307,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786625627752,
+    "processed": false
   }
 ]
