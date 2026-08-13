@@ -984,5 +984,20 @@
     "lastMonthly": 0,
     "lastMult": 1,
     "lastEventMult": 1
+  },
+  "6693559070": {
+    "user_id": 6693559070,
+    "username": "sayaorng01",
+    "fullName": ".mnyrt .",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786584621507,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   }
 }
