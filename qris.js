@@ -40,9 +40,10 @@
     "invoice_type": "tier_upgrade",
     "tier_target": "Miner",
     "tier_from": "Starter",
-    "status": "pending",
+    "status": "expired",
     "created_at": 1786374298524,
-    "processed": false
+    "processed": true,
+    "expired_at": 1786620665366
   },
   {
     "invoice_id": "6a79ecf1036c5d336045ef36",
