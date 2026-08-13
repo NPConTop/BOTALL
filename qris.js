@@ -351,9 +351,10 @@
     "invoice_type": "tier_upgrade",
     "tier_target": "Seed",
     "tier_from": "Starter",
-    "status": "pending",
+    "status": "expired",
     "created_at": 1786625627752,
-    "processed": false
+    "processed": true,
+    "expired_at": 1786663532695
   },
   {
     "invoice_id": "TXN-1786626014-266",
