@@ -296,5 +296,18 @@
     "created_at": 1786551258038,
     "processed": true,
     "paid_at": 1786551403020
+  },
+  {
+    "invoice_id": "TXN-1786619112-260",
+    "user_id": 8474946495,
+    "username": "Zarr",
+    "amount": 50000,
+    "total_paid": 50260,
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Miner",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786619113105,
+    "processed": false
   }
 ]
