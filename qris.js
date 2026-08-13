@@ -248,9 +248,10 @@
     "username": "AgentClassX",
     "amount": 1000,
     "total_paid": 1354,
-    "status": "pending",
+    "status": "expired",
     "created_at": 1786524696149,
-    "processed": false
+    "processed": true,
+    "expired_at": 1786620669942
   },
   {
     "invoice_id": "TXN-1786525017-314",
