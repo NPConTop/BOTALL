@@ -369,5 +369,16 @@
     "created_at": 1786626015267,
     "processed": true,
     "cancelled_at": 1786626021742
+  },
+  {
+    "invoice_id": "100095948453",
+    "user_id": 6080367121,
+    "username": "AgentClassX",
+    "amount": 5000,
+    "total_paid": 5277,
+    "gateway": "buatqris",
+    "status": "pending",
+    "created_at": 1786666874066,
+    "processed": false
   }
 ]
