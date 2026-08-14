@@ -395,5 +395,19 @@
     "status": "expired",
     "created_at": 1786670621957,
     "processed": true
+  },
+  {
+    "invoice_id": "100082799355",
+    "user_id": 8535882179,
+    "username": "Zayxyh",
+    "amount": 50000,
+    "total_paid": 50457,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Miner",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786674654819,
+    "processed": false
   }
 ]
