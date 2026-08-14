@@ -651,7 +651,7 @@
     "lastMine": null,
     "lastMineAmt": 0,
     "joinedAt": 1786426256704,
-    "tier": null,
+    "tier": "Starter",
     "miningActive": false,
     "lastDaily": 0,
     "lastWeekly": 0,
