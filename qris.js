@@ -377,8 +377,9 @@
     "amount": 5000,
     "total_paid": 5277,
     "gateway": "buatqris",
-    "status": "pending",
+    "status": "cancelled",
     "created_at": 1786666874066,
-    "processed": false
+    "processed": true,
+    "cancelled_at": 1786666883414
   }
 ]
