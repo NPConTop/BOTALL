@@ -381,5 +381,19 @@
     "created_at": 1786666874066,
     "processed": true,
     "cancelled_at": 1786666883414
+  },
+  {
+    "invoice_id": "100060881009",
+    "user_id": 8884026662,
+    "username": "wanntzyy12",
+    "amount": 50000,
+    "total_paid": 50525,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Miner",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786670621957,
+    "processed": false
   }
 ]
