@@ -47,13 +47,15 @@
     "lastMine": 1786785563238,
     "lastMineAmt": 2175,
     "joinedAt": 1786353471784,
-    "tier": "Legend",
+    "tier": "Imperial",
     "miningActive": true,
     "lastMult": 1,
     "lastEventMult": 1,
     "lastDaily": 0,
     "lastWeekly": 0,
-    "lastMonthly": 0
+    "lastMonthly": 0,
+    "topupCount": 0,
+    "lastDailyMine": 0
   },
   "8488523937": {
     "user_id": 8488523937,
