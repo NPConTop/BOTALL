@@ -351,7 +351,10 @@
     "lastMineAmt": 0,
     "joinedAt": 1786375423432,
     "tier": "Starter",
-    "miningActive": false
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   },
   "8126072922": {
     "user_id": 8126072922,
@@ -1150,6 +1153,36 @@
     "lastMine": null,
     "lastMineAmt": 0,
     "joinedAt": 1786763064795,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "7334949489": {
+    "user_id": 7334949489,
+    "username": "azkambott",
+    "fullName": "azkaaa",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786763064803,
+    "tier": "Starter",
+    "miningActive": false,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
+  },
+  "8261501170": {
+    "user_id": 8261501170,
+    "username": "niinokrnwn",
+    "fullName": "niino dc",
+    "saldo": 0,
+    "totalMined": 0,
+    "lastMine": null,
+    "lastMineAmt": 0,
+    "joinedAt": 1786763064806,
     "tier": "Starter",
     "miningActive": false,
     "lastDaily": 0,
