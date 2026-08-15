@@ -1304,10 +1304,10 @@
     "user_id": 7638597105,
     "username": "WAN",
     "fullName": "WAN",
-    "saldo": 2000,
-    "totalMined": 0,
-    "lastMine": null,
-    "lastMineAmt": 0,
+    "saldo": 2050,
+    "totalMined": 50,
+    "lastMine": 1786837254096,
+    "lastMineAmt": 50,
     "joinedAt": 1786763064795,
     "tier": "Starter",
     "miningActive": true,
@@ -1315,9 +1315,14 @@
     "lastWeekly": 0,
     "lastMonthly": 0,
     "topupCount": 1,
-    "lastDailyMine": 0,
+    "lastDailyMine": 1786837254096,
     "totalTopupAmount": 2000,
-    "mineHistory": [],
+    "mineHistory": [
+      {
+        "ts": 1786837254096,
+        "amt": 50
+      }
+    ],
     "miningNotif": false,
     "refBonusActive": false,
     "vipMineUntil": 0,
@@ -1329,7 +1334,9 @@
     "vaultLockUntil": 0,
     "vaultLockLastUsed": 0,
     "godmodeLastUsed": 0,
-    "priorityWd": false
+    "priorityWd": false,
+    "lastMult": 1,
+    "lastEventMult": 1
   },
   "7334949489": {
     "user_id": 7334949489,
