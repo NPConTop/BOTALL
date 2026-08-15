@@ -427,5 +427,21 @@
     "created_at": 1786771202107,
     "processed": true,
     "cancelled_at": 1786771209161
+  },
+  {
+    "invoice_id": "TXN-1786790350-285",
+    "user_id": 8611104851,
+    "username": "jarr2334",
+    "first_name": "pajar",
+    "last_name": "",
+    "amount": 5000,
+    "total_paid": 5285,
+    "gateway": "instanpay",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786790350648,
+    "processed": false
   }
 ]
