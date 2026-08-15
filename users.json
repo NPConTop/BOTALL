@@ -436,7 +436,12 @@
     "lastMineAmt": 0,
     "joinedAt": 1786385412640,
     "tier": "Starter",
-    "miningActive": false
+    "miningActive": false,
+    "topupCount": 0,
+    "lastDailyMine": 0,
+    "lastDaily": 0,
+    "lastWeekly": 0,
+    "lastMonthly": 0
   },
   "8650959703": {
     "user_id": 8650959703,
@@ -677,7 +682,9 @@
     "miningActive": false,
     "lastDaily": 0,
     "lastWeekly": 0,
-    "lastMonthly": 0
+    "lastMonthly": 0,
+    "topupCount": 0,
+    "lastDailyMine": 0
   },
   "8349333773": {
     "user_id": 8349333773,
@@ -1161,7 +1168,9 @@
     "miningActive": false,
     "lastDaily": 0,
     "lastWeekly": 0,
-    "lastMonthly": 0
+    "lastMonthly": 0,
+    "topupCount": 0,
+    "lastDailyMine": 0
   },
   "7334949489": {
     "user_id": 7334949489,
