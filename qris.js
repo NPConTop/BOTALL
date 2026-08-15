@@ -410,5 +410,21 @@
     "created_at": 1786674654819,
     "processed": true,
     "cancelled_at": 1786674664476
+  },
+  {
+    "invoice_id": "TXN-1786771201-258",
+    "user_id": 7638597105,
+    "username": "WAN",
+    "first_name": "WAN",
+    "last_name": "",
+    "amount": 5000,
+    "total_paid": 5258,
+    "gateway": "instanpay",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786771202107,
+    "processed": false
   }
 ]
