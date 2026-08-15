@@ -877,7 +877,7 @@
   },
   "8611104851": {
     "user_id": 8611104851,
-    "username": "pajar",
+    "username": "jarr2334",
     "fullName": "pajar",
     "saldo": 0,
     "totalMined": 0,
@@ -888,7 +888,9 @@
     "miningActive": false,
     "lastDaily": 0,
     "lastWeekly": 0,
-    "lastMonthly": 0
+    "lastMonthly": 0,
+    "topupCount": 0,
+    "lastDailyMine": 0
   },
   "8968002533": {
     "user_id": 8968002533,
@@ -938,7 +940,7 @@
   "8866320395": {
     "user_id": 8866320395,
     "username": "Yogzzxx",
-    "fullName": "_—–_Yogzz",
+    "fullName": "?",
     "saldo": 0,
     "totalMined": 0,
     "lastMine": null,
