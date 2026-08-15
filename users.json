@@ -48,7 +48,7 @@
     "lastMineAmt": 256,
     "joinedAt": 1786353471784,
     "tier": "Godhand",
-    "miningActive": true,
+    "miningActive": false,
     "lastMult": 1,
     "lastEventMult": 1,
     "lastDaily": 1786814793253,
