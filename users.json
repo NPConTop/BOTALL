@@ -337,7 +337,7 @@
     "user_id": 8305041861,
     "username": "R I F K I M A R K E T",
     "fullName": "R I F K I M A R K E T",
-    "saldo": 82568,
+    "saldo": 87568,
     "totalMined": 615468,
     "lastMine": 1786787969517,
     "lastMineAmt": 100,
@@ -972,7 +972,9 @@
     "miningActive": false,
     "lastDaily": 0,
     "lastWeekly": 0,
-    "lastMonthly": 0
+    "lastMonthly": 0,
+    "topupCount": 0,
+    "lastDailyMine": 0
   },
   "8471892550": {
     "user_id": 8471892550,
