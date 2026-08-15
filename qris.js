@@ -482,8 +482,9 @@
     "amount": 2000,
     "total_paid": 2125,
     "gateway": "buatqris",
-    "status": "pending",
+    "status": "paid",
     "created_at": 1786837003734,
-    "processed": false
+    "processed": true,
+    "paid_at": 1786837065077
   }
 ]
