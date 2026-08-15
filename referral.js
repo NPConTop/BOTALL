@@ -175,8 +175,8 @@
     "referredBy": 6080367121,
     "referralPending": false,
     "joinRewardAwarded": true,
-    "referralCount": 6,
-    "referralEarned": 30000,
+    "referralCount": 7,
+    "referralEarned": 35000,
     "topupRewardAwarded": false,
     "topupRewardEarned": 0
   },
@@ -563,8 +563,8 @@
   "8663226432": {
     "user_id": 8663226432,
     "referredBy": 8305041861,
-    "referralPending": true,
-    "joinRewardAwarded": false,
+    "referralPending": false,
+    "joinRewardAwarded": true,
     "referralCount": 0,
     "referralEarned": 0,
     "topupRewardAwarded": false,
