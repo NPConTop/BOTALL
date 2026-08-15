@@ -87,7 +87,22 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0,
-    "lastDailyMine": 1786787969517
+    "lastDailyMine": 1786787969517,
+    "topupCount": 0,
+    "totalTopupAmount": 0,
+    "mineHistory": [],
+    "miningNotif": false,
+    "refBonusActive": false,
+    "vipMineUntil": 0,
+    "vipMineLastUsed": 0,
+    "shadowMineUntil": 0,
+    "shadowMineLastUsed": 0,
+    "doubleLuckUntil": 0,
+    "doubleLuckLastUsed": 0,
+    "vaultLockUntil": 0,
+    "vaultLockLastUsed": 0,
+    "godmodeLastUsed": 0,
+    "priorityWd": false
   },
   "8884026662": {
     "user_id": 8884026662,
