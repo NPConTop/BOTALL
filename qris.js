@@ -486,5 +486,21 @@
     "created_at": 1786837003734,
     "processed": true,
     "paid_at": 1786837065077
+  },
+  {
+    "invoice_id": "7HFZ-26AS-08YN-16KX",
+    "user_id": 7638597105,
+    "username": "WAN",
+    "first_name": "WAN",
+    "last_name": "",
+    "amount": 5000,
+    "total_paid": 5278,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786837476713,
+    "processed": false
   }
 ]
