@@ -731,8 +731,8 @@
   },
   "8298533631": {
     "user_id": 8298533631,
-    "username": "xxxpinceon",
-    "fullName": "p?",
+    "username": "pinforlose",
+    "fullName": "-别针？",
     "saldo": 0,
     "totalMined": 0,
     "lastMine": null,
@@ -742,7 +742,9 @@
     "miningActive": false,
     "lastDaily": 0,
     "lastWeekly": 0,
-    "lastMonthly": 0
+    "lastMonthly": 0,
+    "topupCount": 0,
+    "lastDailyMine": 0
   },
   "7692081346": {
     "user_id": 7692081346,
