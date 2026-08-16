@@ -565,5 +565,21 @@
     "created_at": 1786859280480,
     "processed": true,
     "paid_at": 1786859327421
+  },
+  {
+    "invoice_id": "5W3L-26WX-08GY-16JV",
+    "user_id": 8869950786,
+    "username": "Ferdixznokoxz",
+    "first_name": "𝙵𝚎𝚛𝚍𝚒",
+    "last_name": "",
+    "amount": 5000,
+    "total_paid": 5278,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786859769789,
+    "processed": false
   }
 ]
