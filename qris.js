@@ -628,19 +628,19 @@
     "cancelled_at": 1786877563448
   },
   {
-    "invoice_id": "RGV5-26H5-085K-1637",
+    "invoice_id": "S9ZP-26JM-084S-16LY",
     "user_id": 6080367121,
     "username": "AgentClassX",
     "first_name": "Agent Class",
     "last_name": "",
     "amount": 2000000,
-    "total_paid": 2000948,
+    "total_paid": 2000903,
     "gateway": "buatqris",
     "invoice_type": "tier_upgrade",
     "tier_target": "Godhand",
     "tier_from": "Initiate",
     "status": "pending",
-    "created_at": 1786877616218,
+    "created_at": 1786877620160,
     "processed": false
   }
 ]
