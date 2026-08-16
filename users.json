@@ -1122,10 +1122,10 @@
     "user_id": 8652920496,
     "username": "Boyah",
     "fullName": "Boyah",
-    "saldo": 2000,
-    "totalMined": 0,
-    "lastMine": null,
-    "lastMineAmt": 0,
+    "saldo": 2050,
+    "totalMined": 50,
+    "lastMine": 1786853754112,
+    "lastMineAmt": 50,
     "joinedAt": 1786539613163,
     "tier": "Starter",
     "miningActive": true,
@@ -1134,8 +1134,13 @@
     "lastMonthly": 0,
     "topupCount": 1,
     "totalTopupAmount": 2000,
-    "lastDailyMine": 0,
-    "mineHistory": [],
+    "lastDailyMine": 1786853754112,
+    "mineHistory": [
+      {
+        "ts": 1786853754112,
+        "amt": 50
+      }
+    ],
     "miningNotif": false,
     "refBonusActive": false,
     "vipMineUntil": 0,
@@ -1147,7 +1152,9 @@
     "vaultLockUntil": 0,
     "vaultLockLastUsed": 0,
     "godmodeLastUsed": 0,
-    "priorityWd": false
+    "priorityWd": false,
+    "lastMult": 1,
+    "lastEventMult": 1
   },
   "8564226820": {
     "user_id": 8564226820,
