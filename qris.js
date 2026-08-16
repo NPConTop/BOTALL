@@ -690,5 +690,21 @@
     "created_at": 1786878240274,
     "processed": true,
     "cancelled_at": 1786878262801
+  },
+  {
+    "invoice_id": "TXN-1786878589-440",
+    "user_id": 6080367121,
+    "username": "AgentClassX",
+    "first_name": "Agent Class",
+    "last_name": "",
+    "amount": 800000,
+    "total_paid": 800440,
+    "gateway": "instanpay",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Governor",
+    "tier_from": "Initiate",
+    "status": "pending",
+    "created_at": 1786878590250,
+    "processed": false
   }
 ]
