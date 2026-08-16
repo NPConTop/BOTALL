@@ -655,8 +655,9 @@
     "invoice_type": "tier_upgrade",
     "tier_target": "Godhand",
     "tier_from": "Initiate",
-    "status": "pending",
+    "status": "cancelled",
     "created_at": 1786877622462,
-    "processed": false
+    "processed": true,
+    "cancelled_at": 1786877759250
   }
 ]
