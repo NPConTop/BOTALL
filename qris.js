@@ -534,5 +534,21 @@
     "created_at": 1786852568472,
     "processed": true,
     "paid_at": 1786852769959
+  },
+  {
+    "invoice_id": "MYH4-268V-08FE-16A3",
+    "user_id": 8138161995,
+    "username": "ellstore09",
+    "first_name": "xly",
+    "last_name": "209",
+    "amount": 50000,
+    "total_paid": 50408,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Miner",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786859129921,
+    "processed": false
   }
 ]
