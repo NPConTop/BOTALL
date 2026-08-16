@@ -564,7 +564,7 @@
     "lastMineAmt": 100,
     "joinedAt": 1786375358850,
     "tier": "Starter",
-    "miningActive": false,
+    "miningActive": true,
     "lastMult": 1,
     "lastEventMult": 1,
     "lastDaily": 0,
