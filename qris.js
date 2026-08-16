@@ -595,5 +595,18 @@
     "created_at": 1786861106757,
     "processed": true,
     "cancelled_at": 1786861120651
+  },
+  {
+    "invoice_id": "TXN-1786877522-285",
+    "user_id": 6080367121,
+    "username": "AgentClassX",
+    "first_name": "Agent Class",
+    "last_name": "",
+    "amount": 2000,
+    "total_paid": 2285,
+    "gateway": "instanpay",
+    "status": "pending",
+    "created_at": 1786877523033,
+    "processed": false
   }
 ]
