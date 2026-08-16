@@ -622,8 +622,9 @@
     "invoice_type": "tier_upgrade",
     "tier_target": "Agent",
     "tier_from": "Initiate",
-    "status": "pending",
+    "status": "cancelled",
     "created_at": 1786877558646,
-    "processed": false
+    "processed": true,
+    "cancelled_at": 1786877563448
   }
 ]
