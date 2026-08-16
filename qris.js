@@ -639,9 +639,9 @@
     "invoice_type": "tier_upgrade",
     "tier_target": "Godhand",
     "tier_from": "Initiate",
-    "status": "pending",
+    "status": "expired",
     "created_at": 1786877611949,
-    "processed": false
+    "processed": true
   },
   {
     "invoice_id": "REQA-26NW-087M-1675",
