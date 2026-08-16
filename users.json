@@ -66,7 +66,7 @@
     "lastMine": 1786787969516,
     "lastMineAmt": 256,
     "joinedAt": 1786353471784,
-    "tier": "Godhand",
+    "tier": "Agent",
     "miningActive": false,
     "lastMult": 1,
     "lastEventMult": 1,
@@ -88,7 +88,13 @@
     "vaultLockUntil": 1786836328547,
     "vaultLockLastUsed": 1786814728547,
     "godmodeLastUsed": 1786814728547,
-    "priorityWd": false
+    "priorityWd": false,
+    "primeModeLastUsed": 0,
+    "isAdmin": false,
+    "wdFirstDone": false,
+    "wdFirstTimerAt": 0,
+    "wdReferralBase": 0,
+    "wdNextUnlockAt": 0
   },
   "8488523937": {
     "user_id": 8488523937,
