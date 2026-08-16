@@ -628,19 +628,35 @@
     "cancelled_at": 1786877563448
   },
   {
-    "invoice_id": "S9ZP-26JM-084S-16LY",
+    "invoice_id": "LYVL-26YL-084Q-16HK",
     "user_id": 6080367121,
     "username": "AgentClassX",
     "first_name": "Agent Class",
     "last_name": "",
     "amount": 2000000,
-    "total_paid": 2000903,
+    "total_paid": 2000835,
     "gateway": "buatqris",
     "invoice_type": "tier_upgrade",
     "tier_target": "Godhand",
     "tier_from": "Initiate",
     "status": "pending",
-    "created_at": 1786877620160,
+    "created_at": 1786877611949,
+    "processed": false
+  },
+  {
+    "invoice_id": "REQA-26NW-087M-1675",
+    "user_id": 6080367121,
+    "username": "AgentClassX",
+    "first_name": "Agent Class",
+    "last_name": "",
+    "amount": 2000000,
+    "total_paid": 2000833,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Godhand",
+    "tier_from": "Initiate",
+    "status": "pending",
+    "created_at": 1786877622462,
     "processed": false
   }
 ]
