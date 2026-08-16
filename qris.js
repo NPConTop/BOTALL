@@ -547,8 +547,9 @@
     "invoice_type": "tier_upgrade",
     "tier_target": "Miner",
     "tier_from": "Starter",
-    "status": "pending",
+    "status": "cancelled",
     "created_at": 1786859129921,
-    "processed": false
+    "processed": true,
+    "cancelled_at": 1786859141987
   }
 ]
