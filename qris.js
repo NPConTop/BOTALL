@@ -703,8 +703,9 @@
     "invoice_type": "tier_upgrade",
     "tier_target": "Governor",
     "tier_from": "Initiate",
-    "status": "pending",
+    "status": "cancelled",
     "created_at": 1786878590250,
-    "processed": false
+    "processed": true,
+    "cancelled_at": 1786878766845
   }
 ]
