@@ -585,7 +585,13 @@
     "vaultLockUntil": 0,
     "vaultLockLastUsed": 0,
     "godmodeLastUsed": 0,
-    "priorityWd": false
+    "priorityWd": false,
+    "primeModeLastUsed": 0,
+    "isAdmin": false,
+    "wdFirstDone": false,
+    "wdFirstTimerAt": 0,
+    "wdReferralBase": 0,
+    "wdNextUnlockAt": 0
   },
   "8087123077": {
     "user_id": 8087123077,
