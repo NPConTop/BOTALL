@@ -659,5 +659,21 @@
     "created_at": 1786877622462,
     "processed": true,
     "cancelled_at": 1786877759250
+  },
+  {
+    "invoice_id": "LRJB-26EB-08NR-16NP",
+    "user_id": 6080367121,
+    "username": "AgentClassX",
+    "first_name": "Agent Class",
+    "last_name": "",
+    "amount": 60000,
+    "total_paid": 60498,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Executor",
+    "tier_from": "Initiate",
+    "status": "pending",
+    "created_at": 1786877776359,
+    "processed": false
   }
 ]
