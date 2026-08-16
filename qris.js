@@ -503,5 +503,21 @@
     "created_at": 1786837476713,
     "processed": true,
     "cancelled_at": 1786837484235
+  },
+  {
+    "invoice_id": "YTS9-26Q3-08VP-16VD",
+    "user_id": 1342932763,
+    "username": "𝐍𝐏𝐂 𝐆𝐎𝐃𝐇𝐀𝐍𝐃 𝐏𝐑𝐈𝐌𝐄",
+    "first_name": "𝐍𝐏𝐂 𝐆𝐎𝐃𝐇𝐀𝐍𝐃 𝐏𝐑𝐈𝐌𝐄",
+    "last_name": "",
+    "amount": 5000,
+    "total_paid": 5253,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786846452872,
+    "processed": false
   }
 ]
