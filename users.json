@@ -1248,7 +1248,13 @@
     "godmodeLastUsed": 0,
     "priorityWd": false,
     "lastMult": 1,
-    "lastEventMult": 1
+    "lastEventMult": 1,
+    "primeModeLastUsed": 0,
+    "isAdmin": false,
+    "wdFirstDone": false,
+    "wdFirstTimerAt": 0,
+    "wdReferralBase": 0,
+    "wdNextUnlockAt": 0
   },
   "8564226820": {
     "user_id": 8564226820,
