@@ -77,7 +77,13 @@
     "priorityWd": false,
     "lastDaily": 0,
     "lastWeekly": 0,
-    "lastMonthly": 0
+    "lastMonthly": 0,
+    "primeModeLastUsed": 0,
+    "isAdmin": false,
+    "wdFirstDone": false,
+    "wdFirstTimerAt": 0,
+    "wdReferralBase": 0,
+    "wdNextUnlockAt": 0
   },
   "1459505400": {
     "user_id": 1459505400,
