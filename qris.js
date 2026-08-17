@@ -754,9 +754,10 @@
     "invoice_type": "tier_upgrade",
     "tier_target": "Initiate",
     "tier_from": "Starter",
-    "status": "pending",
+    "status": "cancelled",
     "created_at": 1786971034660,
-    "processed": false
+    "processed": true,
+    "cancelled_at": 1786971059723
   },
   {
     "invoice_id": "W7YK-263D-08F2-17YF",
