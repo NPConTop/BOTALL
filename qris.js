@@ -724,5 +724,21 @@
     "created_at": 1786962307181,
     "processed": true,
     "cancelled_at": 1786962340436
+  },
+  {
+    "invoice_id": "JXTV-26E8-08EE-17YG",
+    "user_id": 6997986228,
+    "username": "P",
+    "first_name": "P",
+    "last_name": "P",
+    "amount": 5000,
+    "total_paid": 5188,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786966751628,
+    "processed": false
   }
 ]
