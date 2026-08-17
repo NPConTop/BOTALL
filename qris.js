@@ -741,5 +741,21 @@
     "created_at": 1786966751628,
     "processed": true,
     "cancelled_at": 1786966762154
+  },
+  {
+    "invoice_id": "6VSM-26BL-08CC-17NL",
+    "user_id": 6835139735,
+    "username": "nakanokyy",
+    "first_name": "kyy",
+    "last_name": "",
+    "amount": 10000,
+    "total_paid": 10380,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Initiate",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786971034660,
+    "processed": false
   }
 ]
