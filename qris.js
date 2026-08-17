@@ -757,5 +757,21 @@
     "status": "pending",
     "created_at": 1786971034660,
     "processed": false
+  },
+  {
+    "invoice_id": "W7YK-263D-08F2-17YF",
+    "user_id": 6835139735,
+    "username": "nakanokyy",
+    "first_name": "kyy",
+    "last_name": "",
+    "amount": 5000,
+    "total_paid": 5281,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786971045409,
+    "processed": false
   }
 ]
