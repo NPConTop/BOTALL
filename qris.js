@@ -707,5 +707,21 @@
     "created_at": 1786878590250,
     "processed": true,
     "cancelled_at": 1786878766845
+  },
+  {
+    "invoice_id": "KZ63-26CY-08NP-17N9",
+    "user_id": 6055422326,
+    "username": "pilki",
+    "first_name": "pilki",
+    "last_name": "Kyy",
+    "amount": 5000,
+    "total_paid": 5192,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1786962307181,
+    "processed": false
   }
 ]
