@@ -1400,9 +1400,9 @@
     "user_id": 8652920496,
     "username": "Boyah",
     "fullName": "Boyah",
-    "saldo": 2100,
-    "totalMined": 100,
-    "lastMine": 1786941561063,
+    "saldo": 2150,
+    "totalMined": 150,
+    "lastMine": 1787028561210,
     "lastMineAmt": 50,
     "joinedAt": 1786539613163,
     "tier": "Starter",
@@ -1412,8 +1412,12 @@
     "lastMonthly": 0,
     "topupCount": 1,
     "totalTopupAmount": 2000,
-    "lastDailyMine": 1786941561063,
+    "lastDailyMine": 1787028561210,
     "mineHistory": [
+      {
+        "ts": 1787028561210,
+        "amt": 50
+      },
       {
         "ts": 1786941561063,
         "amt": 50
