@@ -775,5 +775,21 @@
     "created_at": 1786971045409,
     "processed": true,
     "cancelled_at": 1786971064444
+  },
+  {
+    "invoice_id": "26WA-26AL-08H6-19FK",
+    "user_id": 7638597105,
+    "username": "WAN",
+    "first_name": "WAN",
+    "last_name": "",
+    "amount": 5000,
+    "total_paid": 5203,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1787131106170,
+    "processed": false
   }
 ]
