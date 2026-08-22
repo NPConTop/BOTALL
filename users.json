@@ -1746,9 +1746,9 @@
     "user_id": 7638597105,
     "username": "WAN",
     "fullName": "WAN",
-    "saldo": 7300,
-    "totalMined": 300,
-    "lastMine": 1787273061629,
+    "saldo": 7350,
+    "totalMined": 350,
+    "lastMine": 1787360061791,
     "lastMineAmt": 50,
     "joinedAt": 1786763064795,
     "tier": "Starter",
@@ -1757,9 +1757,13 @@
     "lastWeekly": 0,
     "lastMonthly": 0,
     "topupCount": 1,
-    "lastDailyMine": 1787273061629,
+    "lastDailyMine": 1787360061791,
     "totalTopupAmount": 2000,
     "mineHistory": [
+      {
+        "ts": 1787360061791,
+        "amt": 50
+      },
       {
         "ts": 1787273061629,
         "amt": 50
