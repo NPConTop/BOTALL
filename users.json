@@ -192,7 +192,7 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0,
-    "lastDailyMine": 1787310561716,
+    "lastDailyMine": 1787397561860,
     "topupCount": 0,
     "totalTopupAmount": 0,
     "mineHistory": [],
@@ -232,7 +232,7 @@
     "lastWeekly": 0,
     "lastMonthly": 0,
     "topupCount": 0,
-    "lastDailyMine": 1787310561720,
+    "lastDailyMine": 1787397561863,
     "totalTopupAmount": 0,
     "mineHistory": [],
     "miningNotif": false,
@@ -285,7 +285,7 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0,
-    "lastDailyMine": 1787310561720,
+    "lastDailyMine": 1787397561863,
     "topupCount": 0
   },
   "6638368874": {
@@ -304,7 +304,7 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0,
-    "lastDailyMine": 1787310561720,
+    "lastDailyMine": 1787397561863,
     "topupCount": 0,
     "totalTopupAmount": 0,
     "mineHistory": [],
@@ -601,7 +601,7 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0,
-    "lastDailyMine": 1787310561720,
+    "lastDailyMine": 1787397561863,
     "topupCount": 0,
     "totalTopupAmount": 0,
     "mineHistory": [],
@@ -906,9 +906,9 @@
     "user_id": 8138161995,
     "username": "ellstore09",
     "fullName": "ell STORE",
-    "saldo": 238643,
-    "totalMined": 537768,
-    "lastMine": 1787310561720,
+    "saldo": 238693,
+    "totalMined": 537818,
+    "lastMine": 1787397561863,
     "lastMineAmt": 50,
     "joinedAt": 1786422480837,
     "tier": "Starter",
@@ -918,10 +918,14 @@
     "lastMonthly": 0,
     "lastMult": 1,
     "lastEventMult": 1,
-    "lastDailyMine": 1787310561720,
+    "lastDailyMine": 1787397561863,
     "topupCount": 1,
     "totalTopupAmount": 2000,
     "mineHistory": [
+      {
+        "ts": 1787397561863,
+        "amt": 50
+      },
       {
         "ts": 1787310561720,
         "amt": 50
@@ -982,7 +986,7 @@
     "lastMonthly": 0,
     "lastMult": 1,
     "lastEventMult": 1,
-    "lastDailyMine": 1787310561725
+    "lastDailyMine": 1787397561865
   },
   "7050179208": {
     "user_id": 7050179208,
@@ -1214,7 +1218,7 @@
     "lastMonthly": 0,
     "lastMult": 1,
     "lastEventMult": 1,
-    "lastDailyMine": 1787310561725,
+    "lastDailyMine": 1787397561865,
     "topupCount": 0,
     "totalTopupAmount": 0,
     "mineHistory": [],
@@ -1541,7 +1545,7 @@
     "lastMonthly": 0,
     "lastMult": 1,
     "lastEventMult": 1,
-    "lastDailyMine": 1787310561727,
+    "lastDailyMine": 1787397561866,
     "topupCount": 0,
     "totalTopupAmount": 0,
     "mineHistory": [],
