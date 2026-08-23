@@ -792,5 +792,21 @@
     "created_at": 1787131106170,
     "processed": true,
     "cancelled_at": 1787131121201
+  },
+  {
+    "invoice_id": "BBQT-26AS-08S7-24TM",
+    "user_id": 6988586493,
+    "username": "Klokok",
+    "first_name": "Klokok",
+    "last_name": "kokok",
+    "amount": 5000,
+    "total_paid": 5172,
+    "gateway": "buatqris",
+    "invoice_type": "tier_upgrade",
+    "tier_target": "Seed",
+    "tier_from": "Starter",
+    "status": "pending",
+    "created_at": 1787513615923,
+    "processed": false
   }
 ]
