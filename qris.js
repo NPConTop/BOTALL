@@ -809,5 +809,18 @@
     "created_at": 1787513615923,
     "processed": true,
     "cancelled_at": 1787513635274
+  },
+  {
+    "invoice_id": "P3KU-2629-08L6-25RS",
+    "user_id": 6080367121,
+    "username": "AgentClassX",
+    "first_name": "Agent Class",
+    "last_name": "",
+    "amount": 2000,
+    "total_paid": 2053,
+    "gateway": "buatqris",
+    "status": "pending",
+    "created_at": 1787633635578,
+    "processed": false
   }
 ]
