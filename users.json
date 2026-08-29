@@ -141,9 +141,9 @@
     "user_id": 6080367121,
     "username": "AgentClassX",
     "fullName": "Agent Class",
-    "saldo": 2016,
-    "totalMined": 3773615,
-    "lastMine": 1787908053031,
+    "saldo": 2021,
+    "totalMined": 3773620,
+    "lastMine": 1787996737670,
     "lastMineAmt": 5,
     "joinedAt": 1786353471784,
     "tier": "Initiate",
@@ -154,9 +154,13 @@
     "lastWeekly": 1786814809536,
     "lastMonthly": 1786814801876,
     "topupCount": 1,
-    "lastDailyMine": 1787908053031,
+    "lastDailyMine": 1787996737670,
     "totalTopupAmount": 2000,
     "mineHistory": [
+      {
+        "ts": 1787996737670,
+        "amt": 5
+      },
       {
         "ts": 1787908053031,
         "amt": 5
@@ -205,7 +209,7 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0,
-    "lastDailyMine": 1787908053090,
+    "lastDailyMine": 1787996737693,
     "topupCount": 0,
     "totalTopupAmount": 0,
     "mineHistory": [],
@@ -245,7 +249,7 @@
     "lastWeekly": 0,
     "lastMonthly": 0,
     "topupCount": 0,
-    "lastDailyMine": 1787908053091,
+    "lastDailyMine": 1787996737693,
     "totalTopupAmount": 0,
     "mineHistory": [],
     "miningNotif": false,
@@ -320,7 +324,7 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0,
-    "lastDailyMine": 1787908053091,
+    "lastDailyMine": 1787996737693,
     "topupCount": 0
   },
   "6638368874": {
@@ -339,7 +343,7 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0,
-    "lastDailyMine": 1787908053091,
+    "lastDailyMine": 1787996737693,
     "topupCount": 0,
     "totalTopupAmount": 0,
     "mineHistory": [],
@@ -661,7 +665,7 @@
     "lastDaily": 0,
     "lastWeekly": 0,
     "lastMonthly": 0,
-    "lastDailyMine": 1787908053091,
+    "lastDailyMine": 1787996737693,
     "topupCount": 0,
     "totalTopupAmount": 0,
     "mineHistory": [],
@@ -988,9 +992,9 @@
     "user_id": 8138161995,
     "username": "ellstore09",
     "fullName": "ell STORE",
-    "saldo": 238943,
-    "totalMined": 538068,
-    "lastMine": 1787908053092,
+    "saldo": 238993,
+    "totalMined": 538118,
+    "lastMine": 1787996737693,
     "lastMineAmt": 50,
     "joinedAt": 1786422480837,
     "tier": "Starter",
@@ -1000,10 +1004,14 @@
     "lastMonthly": 0,
     "lastMult": 1,
     "lastEventMult": 1,
-    "lastDailyMine": 1787908053092,
+    "lastDailyMine": 1787996737693,
     "topupCount": 1,
     "totalTopupAmount": 2000,
     "mineHistory": [
+      {
+        "ts": 1787996737693,
+        "amt": 50
+      },
       {
         "ts": 1787908053092,
         "amt": 50
@@ -1026,10 +1034,6 @@
       },
       {
         "ts": 1787397561863,
-        "amt": 50
-      },
-      {
-        "ts": 1787310561720,
         "amt": 50
       }
     ],
@@ -1068,7 +1072,7 @@
     "lastMonthly": 0,
     "lastMult": 1,
     "lastEventMult": 1,
-    "lastDailyMine": 1787908053096
+    "lastDailyMine": 1787996737695
   },
   "7050179208": {
     "user_id": 7050179208,
@@ -1320,7 +1324,7 @@
     "lastMonthly": 0,
     "lastMult": 1,
     "lastEventMult": 1,
-    "lastDailyMine": 1787908053096,
+    "lastDailyMine": 1787996737695,
     "topupCount": 0,
     "totalTopupAmount": 0,
     "mineHistory": [],
@@ -1567,9 +1571,9 @@
     "user_id": 8652920496,
     "username": "Boyah",
     "fullName": "Boyah",
-    "saldo": 2565,
-    "totalMined": 600,
-    "lastMine": 1787908053096,
+    "saldo": 2615,
+    "totalMined": 650,
+    "lastMine": 1787996737695,
     "lastMineAmt": 50,
     "joinedAt": 1786539613163,
     "tier": "Starter",
@@ -1579,8 +1583,12 @@
     "lastMonthly": 0,
     "topupCount": 1,
     "totalTopupAmount": 2000,
-    "lastDailyMine": 1787908053096,
+    "lastDailyMine": 1787996737695,
     "mineHistory": [
+      {
+        "ts": 1787996737695,
+        "amt": 50
+      },
       {
         "ts": 1787908053096,
         "amt": 50
@@ -1603,10 +1611,6 @@
       },
       {
         "ts": 1787463134558,
-        "amt": 50
-      },
-      {
-        "ts": 1787376561819,
         "amt": 50
       }
     ],
@@ -1647,7 +1651,7 @@
     "lastMonthly": 0,
     "lastMult": 1,
     "lastEventMult": 1,
-    "lastDailyMine": 1787908053097,
+    "lastDailyMine": 1787996737696,
     "topupCount": 0,
     "totalTopupAmount": 0,
     "mineHistory": [],
@@ -1856,9 +1860,9 @@
     "user_id": 7638597105,
     "username": "WAN",
     "fullName": "WAN",
-    "saldo": 7650,
-    "totalMined": 650,
-    "lastMine": 1787908053097,
+    "saldo": 7700,
+    "totalMined": 700,
+    "lastMine": 1787996737696,
     "lastMineAmt": 50,
     "joinedAt": 1786763064795,
     "tier": "Starter",
@@ -1867,9 +1871,13 @@
     "lastWeekly": 0,
     "lastMonthly": 0,
     "topupCount": 1,
-    "lastDailyMine": 1787908053097,
+    "lastDailyMine": 1787996737696,
     "totalTopupAmount": 2000,
     "mineHistory": [
+      {
+        "ts": 1787996737696,
+        "amt": 50
+      },
       {
         "ts": 1787908053097,
         "amt": 50
@@ -1892,10 +1900,6 @@
       },
       {
         "ts": 1787457134560,
-        "amt": 50
-      },
-      {
-        "ts": 1787360061791,
         "amt": 50
       }
     ],
