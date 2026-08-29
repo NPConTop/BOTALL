@@ -836,5 +836,18 @@
     "status": "expired",
     "created_at": 1787970214419,
     "processed": true
+  },
+  {
+    "invoice_id": "TXN-1787995207-410",
+    "user_id": 6080367121,
+    "username": "AgentClassX",
+    "first_name": "Agent Class",
+    "last_name": "",
+    "amount": 5000,
+    "total_paid": 5410,
+    "gateway": "instanpay",
+    "status": "pending",
+    "created_at": 1787995208354,
+    "processed": false
   }
 ]
