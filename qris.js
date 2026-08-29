@@ -846,8 +846,9 @@
     "amount": 5000,
     "total_paid": 5410,
     "gateway": "instanpay",
-    "status": "pending",
+    "status": "cancelled",
     "created_at": 1787995208354,
-    "processed": false
+    "processed": true,
+    "cancelled_at": 1787995227002
   }
 ]
